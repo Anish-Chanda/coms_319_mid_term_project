@@ -1,0 +1,2 @@
+website url: https://anish-chanda.github.io/coms_319_mid_term_project/
+github repo: https://github.com/Anish-Chanda/coms_319_mid_term_project
