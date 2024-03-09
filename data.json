@@ -1,0 +1,53 @@
+  {
+    "plants": [
+      {
+        "name": "Monstera (Monstera deliciosa)",
+        "zone": "Suitable for zones 10-12; commonly grown as a houseplant in other zones.",
+        "fact": "Monstera, also known as the Swiss Cheese Plant, is a popular tropical plant known for its unique and fenestrated leaves.",
+        "soilType": "Well-draining potting mix with organic matter; prefers slightly moist soil.",
+        "flowering": "Monstera plants may produce flowers, but they are typically inconspicuous. The plant is more renowned for its large, split leaves that develop as it matures.",
+        "image": "./images/monstera.png"
+      },
+      {
+        "name": "Snake Plant (Sansevieria)",
+        "zone": "Adaptable to a wide range of zones; tolerant of different climates.",
+        "fact": "Snake plants, also known as Mother-in-Law's Tongue, are popular indoor plants valued for their hardiness and air-purifying qualities.",
+        "soilType": "Well-draining potting mix; can tolerate various soil conditions but prefers slightly dry conditions.",
+        "flowering": "Snake plants produce tall spikes with small, fragrant, greenish-white flowers, although they may not bloom frequently when grown indoors as houseplants.",
+        "image": "./images/snakeplant.png"
+      },
+      {
+        "name": "Pothos (Epipremnum aureum)",
+        "zone": "Suitable for a wide range of zones; adaptable to different climates.",
+        "fact": "Pothos is a popular and easy-to-care-for houseplant known for its trailing vines and heart-shaped leaves.",
+        "soilType": "Well-draining potting mix; can thrive in various soil conditions.",
+        "flowering": "Pothos plants are grown for their attractive foliage and are not primarily known for their flowers. However, they may produce small, inconspicuous blooms in the right conditions.",
+        "image": "./images/pothos.png"
+      },
+      {
+        "name": "Fig",
+        "zone": "Suitable for warm, Mediterranean-like climates",
+        "fact": "Fig trees are known for their sweet and nutritious fruit called figs.",
+        "soilType": "Well-draining soil, preferably sandy loam or loamy soil.",
+        "flowering": "Fig trees produce small, insignificant flowers that are actually inside the fruit, not externally visible.",
+        "image": "./images/fig.png"
+      },
+      {
+        "name": "Monstera (Monstera deliciosa)",
+        "zone": "Suitable for zones 10-12; commonly grown as a houseplant in other zones.",
+        "fact": "Monstera, also known as the Swiss Cheese Plant, is a popular tropical plant known for its unique and fenestrated leaves.",
+        "soilType": "Well-draining potting mix with organic matter; prefers slightly moist soil.",
+        "flowering": "Monstera plants may produce flowers, but they are typically inconspicuous. The plant is more renowned for its large, split leaves that develop as it matures.",
+        "image": "./images/croton.png"
+      },
+      {
+        "name": "Aglaonema",
+        "zone": "Generally grown as a houseplant; not cold-tolerant and thrives in warm indoor conditions.",
+        "fact": "Aglaonema, also known as Chinese Evergreen, is a popular and low-maintenance indoor plant valued for its attractive foliage and air-purifying qualities.",
+        "soilType": "Well-draining potting mix with organic matter; prefers slightly moist soil but should not be waterlogged.",
+        "flowering": "Aglaonema can produce small, inconspicuous flowers, but it is primarily grown for its colorful and variegated leaves, which come in various patterns and shades.",
+        "image": "./images/Anglon.png"
+      }
+    ]
+  }
+  

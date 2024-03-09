@@ -1,0 +1,39 @@
+{
+    "title": "PlantPedia",
+    "header": {
+      "mainNav": {
+        "title": "PlantPedia",
+        "links": [
+          { "text": "About Authors", "href": "./about.html" },
+          { "text": "HousePlants", "href": "./index.html" }
+        ]
+      }
+    },
+    "plants": [
+      {
+        "name": "Strawberry",
+        "image": "./images/AV.png",
+        "zone": "Suitable for various zones, depending on the strawberry variety.",
+        "fact": "Strawberries are renowned for their sweet, juicy berries and are rich in vitamin C and antioxidants.",
+        "soilType": "Well-draining soil with a slightly acidic to neutral pH is ideal for strawberry plants.",
+        "flowering": "Strawberry plants produce small white flowers that eventually develop into the delicious red berries."
+      },
+      {
+        "name": "Succulents",
+        "image": "./images/succ.png",
+        "zone": "Depending on the variety, succulents can thrive in various zones; often grown as houseplants in colder climates.",
+        "fact": "Succulents are a diverse group of plants known for their ability to store water in their leaves, stems, or roots, making them well-adapted to arid conditions.",
+        "soilType": "Well-draining soil mix, specifically designed for succulents and cacti; good drainage is crucial to prevent root rot.",
+        "flowering": "Many succulents produce colorful and often showy flowers. However, their unique and fleshy foliage is a primary attraction."
+      },
+      {
+        "name": "Hyacinth",
+        "image": "./images/hy.png",
+        "zone": "Suitable for a wide range of zones, depending on the hyacinth variety.",
+        "fact": "Hyacinths are known for their fragrant and vibrant flowers, making them popular in gardens and as cut flowers.",
+        "soilType": "Well-draining soil, preferably loamy; hyacinths thrive in fertile and well-prepared soil.",
+        "flowering": "Hyacinth plants produce dense spikes of colorful, fragrant flowers in spring."
+      }
+    ]
+  }
+  
